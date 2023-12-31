@@ -1,6 +1,8 @@
 # StockKeeper - Aplikasi Manajemen Gudang
 StockKeeper adalah aplikasi manajemen gudang yang dibangun menggunakan VB.NET dan database Access. Aplikasi ini dirancang untuk memudahkan pengguna dalam mengelola barang masuk dan barang keluar dalam suatu gudang.
 
+![Teks paragraf Anda (1)](https://github.com/nurkholiswakhid/StockKeeper-aplikasi_gudang/assets/125814325/15b110fc-c142-4453-89fe-eec2ccfb7472)
+
 # Fitur Utama
 - Manajemen Barang Masuk
 Tambahkan barang masuk ke dalam gudang dengan detail informasi seperti nama barang, jumlah, harga, dan tanggal masuk.
@@ -22,7 +24,7 @@ Tampilkan statistik stok barang, termasuk barang yang paling banyak terjual atau
 Tambahkan, edit, atau hapus kategori barang untuk mengorganisir gudang dengan lebih baik.
 Atur barang berdasarkan kategori untuk memudahkan pengelolaan.
 
-![Teks paragraf Anda (1)](https://github.com/nurkholiswakhid/StockKeeper-aplikasi_gudang/assets/125814325/15b110fc-c142-4453-89fe-eec2ccfb7472)
+
 
 # DEFAULT LOGIN
 USERNAME   : 1
