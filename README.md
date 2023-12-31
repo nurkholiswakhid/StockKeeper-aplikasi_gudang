@@ -27,3 +27,5 @@ Atur barang berdasarkan kategori untuk memudahkan pengelolaan.
 # DEFAULT LOGIN
 USERNAME   : 1
 PASSWORDS  : 1
+
+
